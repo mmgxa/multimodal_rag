@@ -1,0 +1,4 @@
+huggingface_hub[cli]
+hf_transfer
+fastapi==0.95.1
+git+https://github.com/haotian-liu/LLaVA@v1.1.1
